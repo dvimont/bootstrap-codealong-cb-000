@@ -1,3 +1,9 @@
+# Exceptional Realty website -- bootstrapped version!!
+
+Uses Twitter Bootstrap framework!!
+
+=============
+
 # Bootstrap Code-Along
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/o5UCDvaNLd8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
